@@ -7,12 +7,15 @@ Welcome to my project! This repository contains three components: a badge, a pro
 ### 1. Badge
 The badge component is used to display a small count or status indicator. It can be used to show notifications, messages, or any other relevant information.
 
-![Badge Screenshot](https://github.com/user-attachments/assets/7eb386be-3ee6-4e90-b48a-3afa788dda0c)
+![Progress Bar Screenshot](https://github.com/user-attachments/assets/16ff8dcb-1c2f-4ef1-a40d-162c3735f6fb)
+
 
 ### 2. Progress Bar
 The progress bar visually represents the completion status of a task. It is useful for indicating loading times, upload progress, or any ongoing processes.
 
-![Progress Bar Screenshot](https://github.com/user-attachments/assets/16ff8dcb-1c2f-4ef1-a40d-162c3735f6fb)
+![Badge Screenshot](https://github.com/user-attachments/assets/7eb386be-3ee6-4e90-b48a-3afa788dda0c)
+
+
 
 ### 3. Dropdown
 The dropdown component allows users to select an option from a list. It is commonly used in forms and navigation menus to save space and improve usability.
